@@ -1,0 +1,6 @@
+echo " " >> README.md
+git init
+git add README.add
+git remote add origin https://github.com/LalithShankar/TinderBot.git
+git commit -m "initial commit"
+git push origin master
